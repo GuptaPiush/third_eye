@@ -18,7 +18,8 @@
 4. SMS based system to post data to the dashboard.
 
 ## Technologies
-
+This is the example for merge conflict
+## Instructions
 * Volt
 * Ruby
 * Google Maps
