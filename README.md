@@ -1,7 +1,7 @@
 # ThirdEye
 
 > Real time monitoring system for crowd sourced traffic events.
-
+This is the example for merge conflict
 ## Instructions
 
 1. Clone & `cd` to directory
